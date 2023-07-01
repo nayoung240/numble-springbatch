@@ -21,10 +21,12 @@
 - Spring Boot 2.7.13
 - Gradle
 - 종속성
-  - Lombok
-  - Spring Configuration Processor
+  - Lombok - 편의
   - Spring Web
   - Spring Data JPA
+  - Spring Security
+  - H2 - 메모리DB
+  - Validation
 ## 시스템 구조도
 ## API 목록
 ## ERD
